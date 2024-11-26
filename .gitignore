@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.python-env/
+api/__pycache__
+api/novels.json
